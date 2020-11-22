@@ -153,7 +153,7 @@ void engage_query(vector<vector<int> > graph, int init, int dest) {
 			}
 
 			cout << " S" << (dest + 1) << " --> S" << (col + 1) << "     (" << (init + 1) << "," << (dest + 1) << "," << (col + 1) << ")" << " ,\t "<< wait_msg[dest]<<" ,\t "<<msg_count[dest]<<endl;
-			engage_query(graph, init, dest);
+			engage_query(graph, init, col);
 		}
 	}
 }
