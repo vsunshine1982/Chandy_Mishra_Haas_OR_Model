@@ -3,7 +3,7 @@
 // Author      : Ajay Kulkarni
 // Version     : 0.0.003
 // Copyright   : 
-// Description : Hello World in C++, Ansi-style
+// Description : Chandy–Misra–Haas Algorithm for the OR model, Ansi-style
 //============================================================================
 
 # include <iostream>
