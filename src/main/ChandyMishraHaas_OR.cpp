@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : ChandyMishraHaas_OR.cpp
-// Author      : Ajay Kulkarni
+// Author      : Vivek Malhotra
 // Version     : 0.0.003
 // Copyright   : 
-// Description : Chandy–Misra–Haas Algorithm for the OR model, Ansi-style
+// Description : Chandyâ€“Misraâ€“Haas Algorithm for the OR model, Ansi-style
 //============================================================================
 
 # include <iostream>
